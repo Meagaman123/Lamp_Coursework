@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 1b d6 20 01 6c 39 ba-43 d4 eb 52 69 ce 10 7b</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Debian 9.x 64-bit.vmx</vmxPathName></VM></Foundry>
